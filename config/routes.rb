@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  namespace :frontend do
+    get 'home/index'
+  end
+
   namespace :admin do
     get 'dashboard/index'
   end

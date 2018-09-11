@@ -1,24 +1,18 @@
-# README
+### Project Title
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Two different project in one Rails app. For example; admin panel and frontend. If you want to use it. Just dowload. The version of Rails is 5.1.6. 
 
-Things you may want to cover:
+## Getting Started
 
-* Ruby version
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-* System dependencies
+## Installing 
 
-* Configuration
+First step install rails : http://railsinstaller.org/en
 
-* Database creation
+You need a git : https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
-* Database initialization
+And git clone https://github.com/yvzkr/railsTwoProject.git
 
-* How to run the test suite
+Done. That's all we need.
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
